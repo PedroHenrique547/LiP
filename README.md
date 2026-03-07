@@ -28,6 +28,3 @@ Verifica se um número é primo.
 
 (Não sei o que acrescentar pois nunca precisei configurar um README.md pra outras pessoas por mais que eu faça mini projetos desde o IF (informatica)
 
-## 1. Instalar compilador C
-
-Linux:
